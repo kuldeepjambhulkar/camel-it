@@ -1,0 +1,23 @@
+{
+  "name": "camel-it",
+  "version": "1.0.0",
+  "description": "Turn normal strings into camelCase strings!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuldeepjambhulkar/camel-it.git"
+  },
+  "keywords": [
+    "strings",
+    "camelCase"
+  ],
+  "author": "Kuldeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuldeepjambhulkar/camel-it/issues"
+  },
+  "homepage": "https://github.com/kuldeepjambhulkar/camel-it#readme"
+}
