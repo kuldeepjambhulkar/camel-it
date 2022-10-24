@@ -1,6 +1,6 @@
 {
   "name": "camel-it",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Turn normal strings into camelCase strings!",
   "main": "index.js",
   "scripts": {
